@@ -25,3 +25,9 @@ plt.show()
 X can have multiple variables
 Reshape does not need to occur for y
 Reshape is not needed if X has multiple variables
+
+fit for each country (model)
+country levels vs population (based on predictions)
+score (finding relationship between prediction and actual)
+population is linear; ghg is not linear (not depicted well for prediction)
+exclude UK because data missing from multiple years of same emissions
